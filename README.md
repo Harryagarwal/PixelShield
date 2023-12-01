@@ -30,7 +30,7 @@ PixelShield is a Java project that offers a simple yet effective image encryptio
 
 ## Author
 
-[Your Name]
+Harshit Agarwal
 
 ## License
 
